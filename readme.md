@@ -1,7 +1,9 @@
 ## Turtle Race
 
-A randomly simulated turtle race.     
-The turtles race across the screen, with the first one to reach the top being declared the winner.
+Randomly simulated turtle race.     
+
+The turtles race across the screen, with the first one to reach the right side being declared the winner.            
+
 ###### It's a part of the **#100DaysOfCode** challenge by *Angela Yu*. ######    
 
 
